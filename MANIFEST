@@ -12,6 +12,6 @@ t/Util.pm
 t/nephia-test_app/app.psgi
 t/nephia-test_app/cpanfile
 t/nephia-test_app/lib/Nephia/TestApp.pm
-t/nephia-test_app/view/index.html
+t/nephia-test_app/view/index.tx
 META.yml
 MANIFEST
