@@ -29,7 +29,7 @@ provides:
     file: lib/Nephia/Setup/View/Xslate.pm
   Nephia::View::Xslate:
     file: lib/Nephia/View/Xslate.pm
-    version: 0
+    version: 0.04
 requires:
   HTTP::Request::Common: 0
   Nephia: 0
@@ -39,4 +39,4 @@ resources:
   bugtracker: https://github.com/ytnobody/Nephia-View-Xslate/issues
   homepage: https://github.com/ytnobody/Nephia-View-Xslate
   repository: git://github.com/ytnobody/Nephia-View-Xslate.git
-version: 0
+version: 0.04
